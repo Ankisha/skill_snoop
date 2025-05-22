@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import EmailCollection from './components/EmailCollection'
-import SkillTagGrid from './components/skillTagGrid'
+import SkillTagGrid from './components/SkillTagGrid'
 import NavigationTabs from './components/NavigationTabs'
 
 function App() {
